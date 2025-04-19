@@ -1,5 +1,5 @@
-# name = input("enter your name :")
-# print(name)
+name = input("enter your name :")
+print(name)
 
 a= 10
 print(a)
