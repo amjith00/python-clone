@@ -20,3 +20,9 @@ my_function("Sweden")
 my_function("India")
 my_function()
 my_function("Brazil")
+
+
+def great_employee(name):
+    print("your a brilliant employee",name)
+
+great_employee("amjith")
