@@ -1,6 +1,6 @@
 # single inheritance
 
-'''class parent:
+class parent:
   def method1(self):
     print("i am parent")
 
@@ -10,7 +10,7 @@ class child(parent):
 
 child1 = child()
 child1.method2()
-child1.method1()'''
+child1.method1()
 
 # multiple inheritance
 class father:
