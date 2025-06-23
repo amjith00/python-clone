@@ -1,8 +1,8 @@
-# class CarShowroom:
-#     att1=i20
-#     att2=voksvagen
-# print(CarShowroom.att1)
-# print(CarShowroom.at11)
+class CarShowroom:
+    att1=i20
+    att2=voksvagen
+print(CarShowroom.att1)
+print(CarShowroom.at11)
 
 
 class student:
