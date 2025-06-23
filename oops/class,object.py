@@ -19,6 +19,7 @@ student1 = student("amjith",1234,"A")
 student2 = student("head",57668,"A+")
 
 student1.display_info()
-studnet.display_info()
+student2.display_info()
+
 
 
